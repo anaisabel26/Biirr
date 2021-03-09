@@ -1,6 +1,0 @@
-framework module Pods_Biirr_BiirrUITests {
-  umbrella header "Pods-Biirr-BiirrUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
